@@ -1,0 +1,33 @@
+{
+  "client_id": "",
+  "client_secret": "",
+  "bot_token": "",
+  "guild_id": "",
+  "role_on_accept": "",
+  "role_civilian": "",
+  "role_builder": "",
+  "webhook_url": "",
+  "warnings_webhook_url": "",
+  "role_map": {
+    "rank": {
+      "Стажер": "",
+      "Мл. лейтенант": "",
+      "Лейтенант": "",
+      "Ст. лейтенант": "",
+      "Капитан": "",
+      "Майор": "",
+      "Подполковник": "",
+      "Полковник": ""
+    },
+    "position": {
+      "Сотрудник О.Б.Р": "",
+      "Боец О.Б.Р": "",
+      "Зам. Командира": "",
+      "Командир О.Б.Р": ""
+    },
+    "rank_groups": [],
+    "position_groups": [],
+    "warnings": {},
+    "vacation": ""
+  }
+}
